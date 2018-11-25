@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-11-25T22:39:26+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/pikachu/Desktop/КИЛИ/Moskva_ssm1975_1 (online-audio-converter.com).wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../КИЛИ/Moskva_ssm1975_1 (online-audio-converter.com).wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:3a765c93-ea65-490c-a4d1-3bbd19fd0795</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">14</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="14550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="14591"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="14593"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="17977"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="18883"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="21566"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="22251"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="23523"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="24166"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="24761"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="25720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="27120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="27990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="32607"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="32846"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="37335"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="38546"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="39465"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="39975"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="40978"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="42381"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="59768"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="60191"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="64600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="67046"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="73811"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="74266"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="74266"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="dsm@" LINGUISTIC_TYPE_REF="speech" PARTICIPANT="ssm@" TIER_ID="ssm@speech">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE> я же то'лько что предста'вился : Матя'ш Серге'й Серге'евич </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>со'рок три //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>ааа…роди'лся с… Сахали'нская о'бласть , посе'лок Нефтего'рск Охи'нского райо'на </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>в посе'лке </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>ннн…нет  ммм… я дооо… девяно'сто пе'рвого го'да жил ааа… в го'роде Оха',  то' есть роди'тели перее'хали из Нефтего'рска,  когда' бы'ло там… год или два, наве'рное, вот, а по'сле девяно'сто пе'рвого го'да уе'хал учи'ться в Москву' и с тех пор здесь и живу' </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>ну…  в…  в основно'м это бы'ло черномо'рское побере'жье Сове'тского Сою'за </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="dsm@" LINGUISTIC_TYPE_REF="speech" PARTICIPANT="dsm@" TIER_ID="dsm@speech">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>хорошо', скажи'те, пожа'луйста, как вас зову'т? </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>хорошо', ско'лько вам лет? </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>а...  а где' вы родили'сь? </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>ааа…мммм… все ли ва'ше де'тство прошло' ммм… в э'том го'роде? 
+</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>в э'том посе'лке? </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>угу… ааа  где вы ле'том путеше'ствовали в де'тстве? </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="dsm@" LINGUISTIC_TYPE_REF="focus" PARTICIPANT="ssm@" TIER_ID="ssm@intonation">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>я же [-только что-]  представился  [-Матяш-] Сергей Сергеевич // сорок [-три-] //ааа…/ родился с… [-Сахалинская-] область / поселок [-Нефтегорск-] [-Охинского-] района //в [-поселке-] // ннн…нет / ммм… я дооо… девяносто первого [-года-] жил ааа… в городе [-Оха-] / [-то-] есть родители переехали из [-Нефтегорска-]  / когда [-было-] там… [-год-] или [-два-] / наверное / [-вот-] / а после девяносто первого [-года-] уехал учиться [-в Москву-] и с тех пор здесь и [-живу-] // ну… // в… / [-в основном-] это [-было-] черноморское [-побережье-] [-Советского Союза-] </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="dsm@" LINGUISTIC_TYPE_REF="focus" PARTICIPANT="dsm@" TIER_ID="dsm@intonation">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>хорошо, скажите, [-пожалуйста-], как вас зовут?  хорошо, сколько вам [-лет-]? а где вы [-родились-]?  ааа…мммм… [-все-] ли ваше детство прошло ммм… в этом [-городе]? в этом [-поселке-]? угу… ааа / [-где-] вы летом [-путешествовали-] в детстве?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="speech" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="focus" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
